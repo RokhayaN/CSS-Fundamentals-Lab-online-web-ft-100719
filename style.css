@@ -1,5 +1,10 @@
-
-
+h1 {
+  text-align: center;
+}
+ {
+  color: red;
+  text-align: center;
+}
 
 body {
   width: 100%;
